@@ -32,29 +32,32 @@ During my software development internship, I also worked with speech AI technolo
 ## Featured Projects
 
 ### Ancord
-Full-stack web application built with a modern JavaScript stack.
 
-- Frontend and backend architecture
-- REST API integration
-- Modern responsive interface
-- Deployed web application
+A collaborative full-stack personal finance application built with a React frontend and Node.js/Hapi.js backend.
+
+My primary contribution focused on backend development, including REST APIs, authentication flows, transaction management, validation, database integration with Supabase, and frontend-backend integration. I also contributed to parts of the React frontend.
+
+**Tech Stack:** Node.js, Hapi.js, React, Vite, Tailwind CSS, Supabase, REST API, JWT
+
+Frontend: https://github.com/Egar19/ancord-fe  
+Backend: https://github.com/nudledry/ancord-be
+
+### Travelin
+
+A collaborative travel management system consisting of a Flutter mobile application and a REST API backend.
+
+The system supports travel operations including fleet management, customer management, pricing, transactions, and operational data through mobile-to-backend API integration.
+
+**Tech Stack:** Flutter, Dart, Node.js, Express.js, PostgreSQL, Sequelize, REST API, JWT, Docker
+
+Mobile: https://github.com/agunglaksonoputra/PJ4-travelin-mobile  
+API: https://github.com/agunglaksonoputra/PJ4-travelin-api
 
 ### Energy Monitoring
-Application for monitoring electricity consumption using real-time and historical data.
 
-- Energy usage monitoring
-- Historical consumption data
-- Dashboard-based interface
-- Built as an IoT and web development project
+An electricity monitoring application designed to present real-time and historical energy consumption data through a dashboard-based interface.
 
-### Emonic
-Mobile application developed using Flutter and Dart.
-
-- Cross-platform mobile development
-- User-focused mobile interface
-- Flutter-based application architecture
-
-More project documentation, screenshots, and live demos are being added to the repositories.
+The project combines application development with IoT-oriented energy monitoring and data visualization.
 
 ## Experience
 
