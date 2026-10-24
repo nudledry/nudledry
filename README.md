@@ -44,9 +44,9 @@ Backend: https://github.com/nudledry/ancord-be
 
 ### Travelin
 
-A collaborative travel management system consisting of a Flutter mobile application and a REST API backend.
+A collaborative travel operations system consisting of a Flutter mobile application and a REST API backend. It supports workflows for fleet and user management, trip planning, tariffs, transactions, payments, and operational reporting.
 
-The system supports travel operations including fleet management, customer management, pricing, transactions, and operational data through mobile-to-backend API integration.
+**My contribution:** Established the foundation of the backend REST API. Subsequent development was collaborative, with Agung and me fixing bugs and refining features. I also contributed approximately **30% of the Flutter frontend**, focusing on visual theme consistency and reusable UI components.
 
 **Tech Stack:** Flutter, Dart, Node.js, Express.js, PostgreSQL, Sequelize, REST API, JWT, Docker
 
